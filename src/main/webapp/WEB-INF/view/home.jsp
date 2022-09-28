@@ -10,7 +10,7 @@
 		<a href="/">refresh</a>
 	</div>
 	<div>
-		<label>Current Time : </label>
+		<label>Current Time of India : </label>
 		<label>${currentTimeInWords}</label>
 	</div>
 </div>
